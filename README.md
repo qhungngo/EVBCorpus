@@ -1,4 +1,5 @@
 
+
 # EVBCorpus - A Multi-Layer English-Vietnamese Bilingual Corpus for Studying Tasks in Comparative Linguistics and Machine Translation
 The **EVBCopus** contains over 20,000,000 words (20 million) from 15 bilingual books, 100 parallel English-Vietnamese / Vietnamese-English texts, 250 parallel law and ordinance texts, 5,000 news articles, and 2,000 film subtitles. The composition, annotation, encoding and availability of the corpus are meant to facilitate developments of language technology and studies in bilingual terminology extraction, primarily for the English-Vietnamese-English language pair.
 
@@ -42,8 +43,9 @@ If you are interested in the corpus, please email to hungnq(at)uit.edu.vn to hav
 The **EVWACorpus** contains 1,000 news articles with 45,531 sentence pairs and 740,534 words which are aligned manually at the word level between English and Vietnamese sentence. 
 Details of the EVWACorpus: 
 
-|            |English	| Vietnamese|
-|--------|----------|----------|----------|
+
+|--|English|Vietnamese|
+| -- | -- | -- |
 |Files	|1,000	|1,000|
 |Sentences	|45,531	|45,531|
 |Words	|740,534	|832,441|
@@ -54,8 +56,9 @@ Details of the EVWACorpus:
 **English-Vietnamese Chunker Corpus (EVChkCorpus)**
 
 The **EVChkCorpus** contains 1,000 news articles with 45,531 sentence pairs. It is tagged 5 raw chunker tags in both English and Vietnamese text. Details of the EVChkCorpus:
-| |English	|Vietnamese|
-|---|----|--------------|
+
+|Tag|Name|English	|Vietnamese|
+|---|----|--------|----------|
 |NP	|Noun Phrase	| 212,500	|209,824|
 |VP	|Verb Phrase	| 90,784	|123,600|
 |PP	|Preposition Phrase	| 79,853	|70,457|
@@ -67,7 +70,7 @@ The **EVChkCorpus** contains 1,000 news articles with 45,531 sentence pairs. It 
 The EVNECorpus contains 1,000 news articles with 45,531 sentence pairs. It is tagged named entities in both English and Vietnamese text. Details of the EVNECorpus:
 
 |Label|Name|English	|Vietnamese|
-|-----|------|---------------|-----------|
+|-----|----|--------|----------|
 |LOC	|Location	|10,115	|10,006|
 |PER	|Person	|6,869	| 6,741|
 |ORG	|Oganization |7,837 |7,549|
