@@ -13,6 +13,7 @@ As result, the EVBCopus was aligned at the sentence level; and a part of this co
 
 **Release EVBNews v.1.0 with 1,000 parallel documents, download at:**
 https://sites.google.com/a/uit.edu.vn/hungnq/evbcorpus/EVBCorpus_EVBNews_v1.0.rar?attredirects=0&d=1
+
 **Release EVBNews v.2.0 with 1,000 word aligned parallel documents, download at: **
 https://sites.google.com/a/uit.edu.vn/hungnq/evbcorpus/EVBCorpus_EVBNews_v2.0.rar?attredirects=0&d=1
 
@@ -80,20 +81,25 @@ The EVNECorpus contains 1,000 news articles with 45,531 sentence pairs. It is ta
 |-|Total	|	35,879	|34,732|
 
 **The canonical publication for the EVBNews or EVBCorpus is:**
+
 Quoc Hung Ngo, Werner Winiwarter, and Bartholomaus Wloka, (2013). "EVBCorpus - A Multi-Layer English-Vietnamese Bilingual Corpus for Studying Tasks in Comparative Linguistics", In Proceedings of the 11th Workshop on Asian Language Resources (11th ALR within the IJCNLP2013), pp. 1-9. Asian Federation of Natural Language Processing, 2013.
 
 Quoc-Hung Ngo, Werner Winiwarter, (2012). "Building an English-Vietnamese Bilingual Corpus for Machine Translation", International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160. IEEE Computer Society, 2012.
 
 **The canonical publication for the EVNECorpus is:**
+
 Quoc Hung Ngo, Dinh Dien, and Werner Winiwarter, (2014). "Building English-Vietnamese Named Entity Corpus with Aligned Bilingual News Articles", The 5th Workshop on South and Southeast Asian Natural Languages Processing (5th SSANLP within the COLING2014). Association for Computational Linguistics, 2014.
 
 **The canonical publication for the Annotation Tool is:**
+
 Quoc-Hung Ngo, Werner Winiwarter (2012). "A Visualizing Annotation Tool for Semi-Automatically Building a Bilingual Corpus", In Proceedings of the 5th Workshop on Building and Using Comparable Corpora, LREC2012 Workshop, pages 67-74. Association for Computational Linguistics, 2012.
 
 **The canonical publication for the GetWebContent tool is:**
+
 Quoc-Hung Ngo, Dinh Dien, Werner Winiwarter, (2012). "Automatic Searching for English-Vietnamese Documents on the Internet", The 3rd Workshop on South and Southeast Asian Natural Languages Processing (3rd SSANLP within the COLING2012), pp. 211-220. Association for Computational Linguistics, 2012.
 
 **In Use with academic purposes:**
+
 - Trieu, Hai Long, Vu Tran, and Nguyen Le Minh. "Investigating phrase-based and neural-based machine translation on low-resource settings." Proceedings of the 31st Pacific Asia Conference on Language, Information and Computation. 2017.
 - Trieu, Long Hai. "A Study On Machine Translation For Low-Resource Languages". Thesis of Doctor of Philosophy, JAIST, 2017.
 Phuoc, Nguyen Quang, Yingxiu Quan, and Cheol-Young Ock. "Building a bidirectional English-Vietnamese statistical machine translation system by using MOSES." International Journal of Computer and Electrical Engineering 8.2 (2016): 161.
