@@ -12,9 +12,11 @@ The building EVBCorpus process includes four main steps:
 As result, the EVBCopus was aligned at the sentence level; and a part of this corpus containing 1,000 news articles was aligned semi-automatically at the word level.
 
 **Release EVBNews v.1.0 with 1,000 parallel documents, download at:**
+https://github.com/qhungngo/EVBCorpus/blob/master/EVBCorpus_EVBNews_v1.0.rar
 https://sites.google.com/a/uit.edu.vn/hungnq/evbcorpus/EVBCorpus_EVBNews_v1.0.rar?attredirects=0&d=1
 
 **Release EVBNews v.2.0 with 1,000 word aligned parallel documents, download at: **
+https://github.com/qhungngo/EVBCorpus/blob/master/EVBCorpus_EVBNews_v2.0.rar
 https://sites.google.com/a/uit.edu.vn/hungnq/evbcorpus/EVBCorpus_EVBNews_v2.0.rar?attredirects=0&d=1
 
 If you are interested in the corpus, please email to hungnq(at)uit.edu.vn to have more details.
