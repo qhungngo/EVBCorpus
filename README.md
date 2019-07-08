@@ -1,6 +1,5 @@
-
-
-# EVBCorpus - A Multi-Layer English-Vietnamese Bilingual Corpus for Studying Tasks in Comparative Linguistics and Machine Translation
+# EVBCorpus - English-Vietnamese Parallel corpus
+### for Comparative Linguistics, Machine Translation, and Vietnamese NLP tasks
 The **EVBCopus** contains over 20,000,000 words (20 million) from 15 bilingual books, 100 parallel English-Vietnamese / Vietnamese-English texts, 250 parallel law and ordinance texts, 5,000 news articles, and 2,000 film subtitles. The composition, annotation, encoding and availability of the corpus are meant to facilitate developments of language technology and studies in bilingual terminology extraction, primarily for the English-Vietnamese-English language pair.
 
 The building EVBCorpus process includes four main steps: 
