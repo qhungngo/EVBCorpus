@@ -8,7 +8,7 @@ The building EVBCorpus process includes four main steps:
  2. Align bitext at the sentence level, 
  3. Linguistic analysis and tagging; 
  4. Annotate and correct corpus with toolkits. 
-As result, the EVBCopus was aligned at the sentence level; and a part of this corpus containing 1,000 news articles was aligned semi-automatically at the word level.
+As result, the EVBCopus was aligned at the sentence level; and a part of this corpus containing 5,000 news articles was aligned at the word level by tool and annotators.
 
 **Release EVBNews v.1.0 with 1,000 parallel documents, download at:**
 https://github.com/qhungngo/EVBCorpus/blob/master/EVBCorpus_EVBNews_v1.0.rar
